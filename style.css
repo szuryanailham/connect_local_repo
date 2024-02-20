@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.btn-start {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
